@@ -1,0 +1,48 @@
+name: Stundenplan aktualisieren
+
+on:
+  schedule:
+    # alle 6 Stunden (UTC) – 05:00, 11:00, 17:00, 23:00 deutscher Zeit im Winter
+    - cron: "0 4,10,16,22 * * *"
+  workflow_dispatch:        # Knopf zum manuellen Auslösen
+  push:
+    branches: [main]
+    paths: ["config.toml", "scripts/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stundenplan
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Kalender bauen
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/build.py
+
+      - name: Änderungen committen
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs state.json
+          if git diff --staged --quiet; then
+            echo "Keine Änderungen."
+          else
+            git commit -m "Stundenplan-Update $(date -u '+%Y-%m-%d %H:%M UTC')"
+            # falls du zwischendurch selbst etwas committet hast
+            git pull --rebase --autostash
+            git push
+          fi
