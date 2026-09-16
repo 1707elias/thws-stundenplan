@@ -227,258 +227,6 @@
    "room": "I.2.1",
    "lecturer": "Fink"
   },
-  "zf707261@thws-stundenplan.local": {
-   "hash": "6342aa476a4210b26dc47a83a24ec6020badb2e8",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 06.10.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Wedlich"
-  },
-  "zf716996@thws-stundenplan.local": {
-   "hash": "14065f32f3a435935ad17ad7c3d578c6969fb023",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 06.10.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Heß"
-  },
-  "zf707262@thws-stundenplan.local": {
-   "hash": "9de68414df0f7d1acf284bd68fa5edc41d3f4e59",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 13.10.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Wedlich"
-  },
-  "zf716997@thws-stundenplan.local": {
-   "hash": "375f74b491e9e0a5d7576219e8747239aa076111",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 13.10.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Heß"
-  },
-  "zf707263@thws-stundenplan.local": {
-   "hash": "ec84bea42b15cce6def3583514711a6117a5932b",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 20.10.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Wedlich"
-  },
-  "zf716998@thws-stundenplan.local": {
-   "hash": "1bf2299d379f7e608f4278afc93ea970deb9c561",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 20.10.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Heß"
-  },
-  "zf707264@thws-stundenplan.local": {
-   "hash": "b0ea4d5ad37d490f460e90ef08f032181ddae9af",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 27.10.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Wedlich"
-  },
-  "zf716999@thws-stundenplan.local": {
-   "hash": "def5a5ab120fb49a43b8ae2aaf5e7f6b5c2c0279",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 27.10.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Heß"
-  },
-  "zf707265@thws-stundenplan.local": {
-   "hash": "571cbffa07c03afe48813f7039f1685e5343a3b3",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 03.11.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Wedlich"
-  },
-  "zf717000@thws-stundenplan.local": {
-   "hash": "e37922b1d5233ef4050802ecdcf6fd49b0acf74a",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 03.11.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Heß"
-  },
-  "zf707266@thws-stundenplan.local": {
-   "hash": "36de22c66e5d38843b5405bac7c10c19b07e0abc",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 10.11.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Wedlich"
-  },
-  "zf717001@thws-stundenplan.local": {
-   "hash": "0d8c5d6faafd93cdc36c1bbd898ec6d1b52b2ad6",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 10.11.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Heß"
-  },
-  "zf707267@thws-stundenplan.local": {
-   "hash": "61f77e6a5ed2d68baf9bb661a3ab6e3ba0e1655a",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 17.11.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Wedlich"
-  },
-  "zf717002@thws-stundenplan.local": {
-   "hash": "773491fef8716c3d056325cab76e389f849dd84c",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 17.11.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Heß"
-  },
-  "zf707268@thws-stundenplan.local": {
-   "hash": "1da27e10b4fcc47ba9c32886e040a81968c3e74b",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 24.11.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Wedlich"
-  },
-  "zf717003@thws-stundenplan.local": {
-   "hash": "048f70e27fde216216ad05c6b8154ed870682944",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 24.11.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Heß"
-  },
-  "zf707269@thws-stundenplan.local": {
-   "hash": "db4577abd37e38f441482d5d7b103b8058613e3f",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 01.12.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Wedlich"
-  },
-  "zf717004@thws-stundenplan.local": {
-   "hash": "4a37038c3b34f4eaec0e8f5e294bf9f035eff035",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 01.12.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Heß"
-  },
-  "zf707270@thws-stundenplan.local": {
-   "hash": "526ec5640009b6755917f7582db48f0e1e224db2",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 08.12.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Wedlich"
-  },
-  "zf717005@thws-stundenplan.local": {
-   "hash": "8d2baf1763836ab6e837c292f3381b19f8b63967",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 08.12.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Heß"
-  },
-  "zf707271@thws-stundenplan.local": {
-   "hash": "54d3ae624ed3b25595e68bf7608d090a73f2aba2",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 15.12.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Wedlich"
-  },
-  "zf717006@thws-stundenplan.local": {
-   "hash": "c77d2103d7fae1e7eaaf1789cee29feaf3bfd69c",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 15.12.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Heß"
-  },
-  "zf707272@thws-stundenplan.local": {
-   "hash": "bf6cf999b79482fb710b2a2e016e920a66ff9c36",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 22.12.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Wedlich"
-  },
-  "zf717007@thws-stundenplan.local": {
-   "hash": "221a86593009525718f5e6b5d4bcde6eebc09e06",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 22.12.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Heß"
-  },
-  "zf707273@thws-stundenplan.local": {
-   "hash": "0d155d3948c6b3a0ef1a5be28c022fe72d8f23c6",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 12.01.2027 10:00–11:30 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Wedlich"
-  },
-  "zf717008@thws-stundenplan.local": {
-   "hash": "cecda369523595b573beb006e15d6b6792d01b89",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 12.01.2027 11:45–13:15 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Heß"
-  },
-  "zf707274@thws-stundenplan.local": {
-   "hash": "f2cae29979d12cf2a067f3b119c85e758b7db8a5",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 19.01.2027 10:00–11:30 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Wedlich"
-  },
-  "zf717009@thws-stundenplan.local": {
-   "hash": "83e052404128b24da1e903102c25cfb8fa3e6e48",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 19.01.2027 11:45–13:15 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "H.1.3",
-   "lecturer": "Heß"
-  },
   "zf700767@thws-stundenplan.local": {
    "hash": "b5bd5c2c2e97913c62bf0b0f5075c05395408075",
    "sequence": 0,
@@ -595,6 +343,258 @@
    "calendar": "THWS – Extras",
    "room": "H.1.3",
    "lecturer": "Schleif"
+  },
+  "zf707261@thws-stundenplan.local": {
+   "hash": "6342aa476a4210b26dc47a83a24ec6020badb2e8",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 06.10.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Wedlich"
+  },
+  "zf716996@thws-stundenplan.local": {
+   "hash": "14065f32f3a435935ad17ad7c3d578c6969fb023",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 06.10.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Heß"
+  },
+  "zf707262@thws-stundenplan.local": {
+   "hash": "9de68414df0f7d1acf284bd68fa5edc41d3f4e59",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 13.10.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Wedlich"
+  },
+  "zf716997@thws-stundenplan.local": {
+   "hash": "375f74b491e9e0a5d7576219e8747239aa076111",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 13.10.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Heß"
+  },
+  "zf707263@thws-stundenplan.local": {
+   "hash": "ec84bea42b15cce6def3583514711a6117a5932b",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 20.10.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Wedlich"
+  },
+  "zf716998@thws-stundenplan.local": {
+   "hash": "1bf2299d379f7e608f4278afc93ea970deb9c561",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 20.10.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Heß"
+  },
+  "zf707264@thws-stundenplan.local": {
+   "hash": "b0ea4d5ad37d490f460e90ef08f032181ddae9af",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 27.10.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Wedlich"
+  },
+  "zf716999@thws-stundenplan.local": {
+   "hash": "def5a5ab120fb49a43b8ae2aaf5e7f6b5c2c0279",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 27.10.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Heß"
+  },
+  "zf707265@thws-stundenplan.local": {
+   "hash": "571cbffa07c03afe48813f7039f1685e5343a3b3",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 03.11.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Wedlich"
+  },
+  "zf717000@thws-stundenplan.local": {
+   "hash": "e37922b1d5233ef4050802ecdcf6fd49b0acf74a",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 03.11.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Heß"
+  },
+  "zf707266@thws-stundenplan.local": {
+   "hash": "36de22c66e5d38843b5405bac7c10c19b07e0abc",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 10.11.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Wedlich"
+  },
+  "zf717001@thws-stundenplan.local": {
+   "hash": "0d8c5d6faafd93cdc36c1bbd898ec6d1b52b2ad6",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 10.11.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Heß"
+  },
+  "zf707267@thws-stundenplan.local": {
+   "hash": "61f77e6a5ed2d68baf9bb661a3ab6e3ba0e1655a",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 17.11.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Wedlich"
+  },
+  "zf717002@thws-stundenplan.local": {
+   "hash": "773491fef8716c3d056325cab76e389f849dd84c",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 17.11.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Heß"
+  },
+  "zf707268@thws-stundenplan.local": {
+   "hash": "1da27e10b4fcc47ba9c32886e040a81968c3e74b",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 24.11.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Wedlich"
+  },
+  "zf717003@thws-stundenplan.local": {
+   "hash": "048f70e27fde216216ad05c6b8154ed870682944",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 24.11.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Heß"
+  },
+  "zf707269@thws-stundenplan.local": {
+   "hash": "db4577abd37e38f441482d5d7b103b8058613e3f",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 01.12.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Wedlich"
+  },
+  "zf717004@thws-stundenplan.local": {
+   "hash": "4a37038c3b34f4eaec0e8f5e294bf9f035eff035",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 01.12.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Heß"
+  },
+  "zf707270@thws-stundenplan.local": {
+   "hash": "526ec5640009b6755917f7582db48f0e1e224db2",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 08.12.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Wedlich"
+  },
+  "zf717005@thws-stundenplan.local": {
+   "hash": "8d2baf1763836ab6e837c292f3381b19f8b63967",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 08.12.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Heß"
+  },
+  "zf707271@thws-stundenplan.local": {
+   "hash": "54d3ae624ed3b25595e68bf7608d090a73f2aba2",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 15.12.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Wedlich"
+  },
+  "zf717006@thws-stundenplan.local": {
+   "hash": "c77d2103d7fae1e7eaaf1789cee29feaf3bfd69c",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 15.12.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Heß"
+  },
+  "zf707272@thws-stundenplan.local": {
+   "hash": "bf6cf999b79482fb710b2a2e016e920a66ff9c36",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 22.12.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Wedlich"
+  },
+  "zf717007@thws-stundenplan.local": {
+   "hash": "221a86593009525718f5e6b5d4bcde6eebc09e06",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 22.12.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Heß"
+  },
+  "zf707273@thws-stundenplan.local": {
+   "hash": "0d155d3948c6b3a0ef1a5be28c022fe72d8f23c6",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 12.01.2027 10:00–11:30 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Wedlich"
+  },
+  "zf717008@thws-stundenplan.local": {
+   "hash": "cecda369523595b573beb006e15d6b6792d01b89",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 12.01.2027 11:45–13:15 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Heß"
+  },
+  "zf707274@thws-stundenplan.local": {
+   "hash": "f2cae29979d12cf2a067f3b119c85e758b7db8a5",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 19.01.2027 10:00–11:30 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Wedlich"
+  },
+  "zf717009@thws-stundenplan.local": {
+   "hash": "83e052404128b24da1e903102c25cfb8fa3e6e48",
+   "sequence": 0,
+   "dtstamp": "20260915T194545Z",
+   "label": "Di 19.01.2027 11:45–13:15 · SU IT-Projektmanagement [BWI]",
+   "calendar": "THWS – Extras",
+   "room": "H.1.3",
+   "lecturer": "Heß"
   }
  }
 }
