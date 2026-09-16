@@ -1,0 +1,56 @@
+# ─────────────────────────────────────────────────────────────────────
+#  Konfiguration  –  hier stellst du alles ein, ohne Code anzufassen
+# ─────────────────────────────────────────────────────────────────────
+
+# Basis-URL deiner GitHub Pages (ohne Slash am Ende).
+# Trag das ein, sobald Pages aktiv ist, z.B.
+# "https://eliasschlappner.github.io/thws-stundenplan"
+base_url = "https://DEIN-GITHUB-NAME.github.io/thws-stundenplan"
+
+# Wie oft der Kalender-Client neu laden soll (Hinweis an Apple & Co.)
+refresh_hours = 6
+
+
+# ── Quellen ──────────────────────────────────────────────────────────
+# Die sked-Plaene, die eingelesen werden. Neues Semester = neue URL.
+# Die "id" muss eindeutig sein und darf sich nicht aendern, sie steckt
+# in den Termin-UIDs.
+
+[[sources]]
+id  = "bwi7bs"
+url = "https://fiw.thws.de/fileadmin/share/vlplan/BaWinf7BS_2026ws.html"
+name = "BWI 7 Business Software"
+
+[[sources]]
+id  = "bwi3"
+url = "https://fiw.thws.de/fileadmin/share/vlplan/BaWinf3_2026ws.html"
+name = "BWI 3"
+
+
+# ── Kalender ─────────────────────────────────────────────────────────
+# Jeder Block wird eine eigene .ics-Datei, die du einzeln abonnierst.
+#
+#   match  = Liste von Textbausteinen. Enthaelt der Titel einer
+#            Veranstaltung einen davon (Gross/Klein egal), kommt sie rein.
+#   alarm_minutes = Erinnerung vor Beginn (0 = keine)
+
+[[calendars]]
+file  = "meine-kurse.ics"
+name  = "THWS – Meine Kurse"
+alarm_minutes = 60
+check_conflicts = true
+match = [
+  "Tools für Business Software",
+  "ABAP/4",
+  "SAP Business Technology Platform",
+  "IT-Projektmanagement",
+]
+
+[[calendars]]
+file  = "fiw-extras.ics"
+name  = "THWS – Extras"
+alarm_minutes = 0
+check_conflicts = false
+match = [
+  "Code, KI & Karriere",
+]
