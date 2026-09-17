@@ -1,5 +1,5 @@
 {
- "last_change": "15.09.2026, 21:45",
+ "last_change": "17.09.2026, 11:20",
  "total_parsed": 406,
  "events": {
   "zf700782@thws-stundenplan.local": {
@@ -226,6 +226,132 @@
    "calendar": "THWS – Meine Kurse",
    "room": "I.2.1",
    "lecturer": "Fink"
+  },
+  "zf707694@thws-stundenplan.local": {
+   "hash": "0fb3af4fc8ca6d2b5c2f3cf11f2f5d550c474049",
+   "sequence": 0,
+   "dtstamp": "20260917T092037Z",
+   "label": "Di 06.10.2026 15:15–18:30 · SU Data Science [BWI]",
+   "calendar": "THWS – Meine Kurse",
+   "room": "H.1.1",
+   "lecturer": "Schleif"
+  },
+  "zf707695@thws-stundenplan.local": {
+   "hash": "b52a2e282e3d22142782bc4e2eda6d8604644f13",
+   "sequence": 0,
+   "dtstamp": "20260917T092037Z",
+   "label": "Di 13.10.2026 15:15–18:30 · SU Data Science [BWI]",
+   "calendar": "THWS – Meine Kurse",
+   "room": "H.1.1",
+   "lecturer": "Schleif"
+  },
+  "zf707696@thws-stundenplan.local": {
+   "hash": "14d3f9c01864929ae4839469d96482077ea97392",
+   "sequence": 0,
+   "dtstamp": "20260917T092037Z",
+   "label": "Di 20.10.2026 15:15–18:30 · SU Data Science [BWI]",
+   "calendar": "THWS – Meine Kurse",
+   "room": "H.1.1",
+   "lecturer": "Schleif"
+  },
+  "zf707697@thws-stundenplan.local": {
+   "hash": "e90887a71b347ca83f16d432da40a94fc534867f",
+   "sequence": 0,
+   "dtstamp": "20260917T092037Z",
+   "label": "Di 27.10.2026 15:15–18:30 · SU Data Science [BWI]",
+   "calendar": "THWS – Meine Kurse",
+   "room": "H.1.1",
+   "lecturer": "Schleif"
+  },
+  "zf707698@thws-stundenplan.local": {
+   "hash": "3293ff6dfdd5647cb5b9007406cace4eaf599a6d",
+   "sequence": 0,
+   "dtstamp": "20260917T092037Z",
+   "label": "Do 05.11.2026 13:30–16:45 · SU Data Science [BWI]",
+   "calendar": "THWS – Meine Kurse",
+   "room": "H.1.2",
+   "lecturer": "Schleif"
+  },
+  "zf707699@thws-stundenplan.local": {
+   "hash": "8a67c792a9824c56dea680d8a0e4f4a399dd57a8",
+   "sequence": 0,
+   "dtstamp": "20260917T092037Z",
+   "label": "Di 10.11.2026 15:15–18:30 · SU Data Science [BWI]",
+   "calendar": "THWS – Meine Kurse",
+   "room": "H.1.1",
+   "lecturer": "Schleif"
+  },
+  "zf707700@thws-stundenplan.local": {
+   "hash": "3b40fbffdcf6ae0a1f31f0b90b08799581a18798",
+   "sequence": 0,
+   "dtstamp": "20260917T092037Z",
+   "label": "Di 17.11.2026 15:15–18:30 · SU Data Science [BWI]",
+   "calendar": "THWS – Meine Kurse",
+   "room": "H.1.1",
+   "lecturer": "Schleif"
+  },
+  "zf707701@thws-stundenplan.local": {
+   "hash": "18646c14bba7036246bc31a2457a7a2dfa903305",
+   "sequence": 0,
+   "dtstamp": "20260917T092037Z",
+   "label": "Di 24.11.2026 15:15–18:30 · SU Data Science [BWI]",
+   "calendar": "THWS – Meine Kurse",
+   "room": "H.1.1",
+   "lecturer": "Schleif"
+  },
+  "zf707702@thws-stundenplan.local": {
+   "hash": "3d451b8d59e3aff625c89bc6c227923a7975cfc2",
+   "sequence": 0,
+   "dtstamp": "20260917T092037Z",
+   "label": "Di 01.12.2026 15:15–18:30 · SU Data Science [BWI]",
+   "calendar": "THWS – Meine Kurse",
+   "room": "H.1.1",
+   "lecturer": "Schleif"
+  },
+  "zf707703@thws-stundenplan.local": {
+   "hash": "5d10669ea4804378ef7c006bac59cf59a8c10e12",
+   "sequence": 0,
+   "dtstamp": "20260917T092037Z",
+   "label": "Di 08.12.2026 15:15–18:30 · SU Data Science [BWI]",
+   "calendar": "THWS – Meine Kurse",
+   "room": "H.1.1",
+   "lecturer": "Schleif"
+  },
+  "zf707704@thws-stundenplan.local": {
+   "hash": "f3f661dbbcc8bea5c0bec13e4703d3f7a8810115",
+   "sequence": 0,
+   "dtstamp": "20260917T092037Z",
+   "label": "Di 15.12.2026 15:15–18:30 · SU Data Science [BWI]",
+   "calendar": "THWS – Meine Kurse",
+   "room": "H.1.1",
+   "lecturer": "Schleif"
+  },
+  "zf707705@thws-stundenplan.local": {
+   "hash": "bfe0f8e0d998349413fe3d7b246c93c31bcfbd8c",
+   "sequence": 0,
+   "dtstamp": "20260917T092037Z",
+   "label": "Di 22.12.2026 15:15–18:30 · SU Data Science [BWI]",
+   "calendar": "THWS – Meine Kurse",
+   "room": "H.1.1",
+   "lecturer": "Schleif"
+  },
+  "zf707706@thws-stundenplan.local": {
+   "hash": "39f1c0bb4cddbc8258528c33ab0aa3cdf5713d25",
+   "sequence": 0,
+   "dtstamp": "20260917T092037Z",
+   "label": "Di 12.01.2027 15:15–18:30 · SU Data Science [BWI]",
+   "calendar": "THWS – Meine Kurse",
+   "room": "H.1.1",
+   "lecturer": "Schleif"
+  },
+  "zf707707@thws-stundenplan.local": {
+   "hash": "af0b112cec77e2dab3e0b012857559f37943c5d7",
+   "sequence": 0,
+   "dtstamp": "20260917T092037Z",
+   "label": "Di 19.01.2027 15:15–18:30 · SU Data Science [BWI]",
+   "calendar": "THWS – Meine Kurse",
+   "room": "H.1.1",
+   "lecturer": "Schleif"
   },
   "zf700767@thws-stundenplan.local": {
    "hash": "b5bd5c2c2e97913c62bf0b0f5075c05395408075",
