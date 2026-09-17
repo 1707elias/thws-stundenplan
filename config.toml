@@ -43,6 +43,7 @@ match = [
   "Tools für Business Software",
   "ABAP/4",
   "SAP Business Technology Platform",
+  "Data Science",
 ]
 
 [[calendars]]
