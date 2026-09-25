@@ -1,6 +1,6 @@
 {
- "last_change": "17.09.2026, 11:21",
- "total_parsed": 405,
+ "last_change": "25.09.2026, 02:16",
+ "total_parsed": 397,
  "events": {
   "zf700782@thws-stundenplan.local": {
    "hash": "82141c9f5bbdaa94d3bbae9d2742e71e93cff12f",
@@ -236,47 +236,11 @@
    "room": "H.1.3",
    "lecturer": "Schleif"
   },
-  "zf700768@thws-stundenplan.local": {
-   "hash": "517e7588d0dadac4ce93762ef391867af0b588f0",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Fr 23.10.2026 15:15–16:45 · Code, KI & Karriere – was nach dem Studium wirklich passiert",
-   "calendar": "THWS – Extras",
-   "room": "H.1.3",
-   "lecturer": "Schleif"
-  },
-  "zf700769@thws-stundenplan.local": {
-   "hash": "b832d57a163f5e14fdf15ddf8bd6778a6e897005",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Fr 30.10.2026 15:15–16:45 · Code, KI & Karriere – was nach dem Studium wirklich passiert",
-   "calendar": "THWS – Extras",
-   "room": "H.1.3",
-   "lecturer": "Schleif"
-  },
   "zf700770@thws-stundenplan.local": {
    "hash": "7992d801cb2d2dd0d6b303f72cf323accb7c6ee0",
    "sequence": 0,
    "dtstamp": "20260915T194545Z",
    "label": "Fr 06.11.2026 15:15–16:45 · Code, KI & Karriere – was nach dem Studium wirklich passiert",
-   "calendar": "THWS – Extras",
-   "room": "H.1.3",
-   "lecturer": "Schleif"
-  },
-  "zf700771@thws-stundenplan.local": {
-   "hash": "f4c688394649152cc9b224507ae1524a70121cdf",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Fr 13.11.2026 15:15–16:45 · Code, KI & Karriere – was nach dem Studium wirklich passiert",
-   "calendar": "THWS – Extras",
-   "room": "H.1.3",
-   "lecturer": "Schleif"
-  },
-  "zf700772@thws-stundenplan.local": {
-   "hash": "6783e19489fea70a57fa99fc200fc7ba8f2286b9",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Fr 20.11.2026 15:15–16:45 · Code, KI & Karriere – was nach dem Studium wirklich passiert",
    "calendar": "THWS – Extras",
    "room": "H.1.3",
    "lecturer": "Schleif"
@@ -299,47 +263,11 @@
    "room": "H.1.3",
    "lecturer": "Schleif"
   },
-  "zf700775@thws-stundenplan.local": {
-   "hash": "10d6dcb8872b7548ba6762da715052ecdf9e90b9",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Fr 11.12.2026 15:15–16:45 · Code, KI & Karriere – was nach dem Studium wirklich passiert",
-   "calendar": "THWS – Extras",
-   "room": "H.1.3",
-   "lecturer": "Schleif"
-  },
-  "zf700776@thws-stundenplan.local": {
-   "hash": "9da382d7ba020ca94a73e1059d5b74e3b28948a8",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Fr 18.12.2026 15:15–16:45 · Code, KI & Karriere – was nach dem Studium wirklich passiert",
-   "calendar": "THWS – Extras",
-   "room": "H.1.3",
-   "lecturer": "Schleif"
-  },
-  "zf700777@thws-stundenplan.local": {
-   "hash": "43d832ad5a4eca49ba93a85a8967d83de4797fdd",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Fr 08.01.2027 15:15–16:45 · Code, KI & Karriere – was nach dem Studium wirklich passiert",
-   "calendar": "THWS – Extras",
-   "room": "H.1.3",
-   "lecturer": "Schleif"
-  },
   "zf700778@thws-stundenplan.local": {
    "hash": "bbbbc4633865e4d8982a7c724d7e51ee20b8cb3f",
    "sequence": 0,
    "dtstamp": "20260915T194545Z",
    "label": "Fr 15.01.2027 15:15–16:45 · Code, KI & Karriere – was nach dem Studium wirklich passiert",
-   "calendar": "THWS – Extras",
-   "room": "H.1.3",
-   "lecturer": "Schleif"
-  },
-  "zf700779@thws-stundenplan.local": {
-   "hash": "4a6a5feec060131e223d788517c9491b1091d671",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Fr 22.01.2027 15:15–16:45 · Code, KI & Karriere – was nach dem Studium wirklich passiert",
    "calendar": "THWS – Extras",
    "room": "H.1.3",
    "lecturer": "Schleif"
