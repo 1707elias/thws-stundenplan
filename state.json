@@ -1,5 +1,5 @@
 {
- "last_change": "25.09.2026, 02:16",
+ "last_change": "26.09.2026, 02:21",
  "total_parsed": 397,
  "events": {
   "zf700782@thws-stundenplan.local": {
@@ -237,10 +237,10 @@
    "lecturer": "Schleif"
   },
   "zf700770@thws-stundenplan.local": {
-   "hash": "7992d801cb2d2dd0d6b303f72cf323accb7c6ee0",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Fr 06.11.2026 15:15–16:45 · Code, KI & Karriere – was nach dem Studium wirklich passiert",
+   "hash": "f4c688394649152cc9b224507ae1524a70121cdf",
+   "sequence": 1,
+   "dtstamp": "20260926T002154Z",
+   "label": "Fr 13.11.2026 15:15–16:45 · Code, KI & Karriere – was nach dem Studium wirklich passiert",
    "calendar": "THWS – Extras",
    "room": "H.1.3",
    "lecturer": "Schleif"
