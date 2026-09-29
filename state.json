@@ -1,5 +1,5 @@
 {
- "last_change": "26.09.2026, 02:21",
+ "last_change": "29.09.2026, 12:24",
  "total_parsed": 397,
  "events": {
   "zf700782@thws-stundenplan.local": {
@@ -12,21 +12,21 @@
    "lecturer": "Hennermann"
   },
   "zf717494@thws-stundenplan.local": {
-   "hash": "2a8d85339ddfe4f58935cc4bf1d7e6385f29518b",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
+   "hash": "c91504f22d00d2396d968287d57313d4c44bac15",
+   "sequence": 1,
+   "dtstamp": "20260929T102427Z",
    "label": "Do 15.10.2026 09:00–17:30 · S ABAP/4 Development Workbench [BEC]",
    "calendar": "THWS – Meine Kurse",
-   "room": "I.2.1",
+   "room": "I.2.18",
    "lecturer": "Espenschied"
   },
   "zf717496@thws-stundenplan.local": {
-   "hash": "b128b99ca1bacf6ac0b3891f3a2247794f20f95d",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
+   "hash": "31bf1a11dc7ec89811dae7e270d1dc0c99edce2d",
+   "sequence": 1,
+   "dtstamp": "20260929T102427Z",
    "label": "Fr 16.10.2026 09:00–17:30 · S ABAP/4 Development Workbench [BEC]",
    "calendar": "THWS – Meine Kurse",
-   "room": "I.2.1",
+   "room": "I.2.18",
    "lecturer": "Espenschied"
   },
   "zf700783@thws-stundenplan.local": {
@@ -39,30 +39,30 @@
    "lecturer": "Hennermann"
   },
   "zf717495@thws-stundenplan.local": {
-   "hash": "5f2176434dda026b7cf3919a84c91d128c3253f2",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
+   "hash": "a8cab50903e30c872aa2ce6afb7647edb173ad77",
+   "sequence": 1,
+   "dtstamp": "20260929T102427Z",
    "label": "Do 22.10.2026 09:00–17:30 · S ABAP/4 Development Workbench [BEC]",
    "calendar": "THWS – Meine Kurse",
-   "room": "I.2.1",
+   "room": "I.2.18",
    "lecturer": "Espenschied"
   },
   "zf717498@thws-stundenplan.local": {
-   "hash": "c8e2f38d8374f0bc93f4b1734a092d9315ee6058",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
+   "hash": "dbfa5304c7613078e0152c8a6cab9c8627ce0867",
+   "sequence": 1,
+   "dtstamp": "20260929T102427Z",
    "label": "Fr 23.10.2026 09:00–17:30 · S ABAP/4 Development Workbench [BEC]",
    "calendar": "THWS – Meine Kurse",
-   "room": "I.2.1",
+   "room": "I.2.18",
    "lecturer": "Espenschied"
   },
   "zf717497@thws-stundenplan.local": {
-   "hash": "5903c0c63db6d6001c77b178f4c6def4b8eb93ea",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
+   "hash": "f2fcc27206952418c6ddbe1289d8f0c3fb05b756",
+   "sequence": 1,
+   "dtstamp": "20260929T102427Z",
    "label": "Sa 24.10.2026 09:00–17:30 · S ABAP/4 Development Workbench [BEC]",
    "calendar": "THWS – Meine Kurse",
-   "room": "I.2.1",
+   "room": "I.2.18",
    "lecturer": "Espenschied"
   },
   "zf700784@thws-stundenplan.local": {
