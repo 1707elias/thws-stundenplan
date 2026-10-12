@@ -1,16 +1,7 @@
 {
- "last_change": "29.09.2026, 12:24",
- "total_parsed": 390,
+ "last_change": "12.10.2026, 02:58",
+ "total_parsed": 369,
  "events": {
-  "zf700782@thws-stundenplan.local": {
-   "hash": "82141c9f5bbdaa94d3bbae9d2742e71e93cff12f",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 06.10.2026 10:00–13:15 · S Tools für Business Software [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "I.2.18",
-   "lecturer": "Hennermann"
-  },
   "zf717494@thws-stundenplan.local": {
    "hash": "c91504f22d00d2396d968287d57313d4c44bac15",
    "sequence": 1,
@@ -271,24 +262,6 @@
    "calendar": "THWS – Extras",
    "room": "H.1.3",
    "lecturer": "Schleif"
-  },
-  "zf707261@thws-stundenplan.local": {
-   "hash": "6342aa476a4210b26dc47a83a24ec6020badb2e8",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 06.10.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Extras",
-   "room": "H.1.3",
-   "lecturer": "Wedlich"
-  },
-  "zf716996@thws-stundenplan.local": {
-   "hash": "14065f32f3a435935ad17ad7c3d578c6969fb023",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 06.10.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Extras",
-   "room": "H.1.3",
-   "lecturer": "Heß"
   },
   "zf707262@thws-stundenplan.local": {
    "hash": "9de68414df0f7d1acf284bd68fa5edc41d3f4e59",
