@@ -1,43 +1,7 @@
 {
- "last_change": "21.10.2026, 02:22",
- "total_parsed": 338,
+ "last_change": "26.10.2026, 10:42",
+ "total_parsed": 317,
  "events": {
-  "zf717495@thws-stundenplan.local": {
-   "hash": "a8cab50903e30c872aa2ce6afb7647edb173ad77",
-   "sequence": 1,
-   "dtstamp": "20260929T102427Z",
-   "label": "Do 22.10.2026 09:00–17:30 · S ABAP/4 Development Workbench [BEC]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "I.2.18",
-   "lecturer": "Espenschied"
-  },
-  "zf717498@thws-stundenplan.local": {
-   "hash": "dbfa5304c7613078e0152c8a6cab9c8627ce0867",
-   "sequence": 1,
-   "dtstamp": "20260929T102427Z",
-   "label": "Fr 23.10.2026 09:00–17:30 · S ABAP/4 Development Workbench [BEC]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "I.2.18",
-   "lecturer": "Espenschied"
-  },
-  "zf717497@thws-stundenplan.local": {
-   "hash": "f2fcc27206952418c6ddbe1289d8f0c3fb05b756",
-   "sequence": 1,
-   "dtstamp": "20260929T102427Z",
-   "label": "Sa 24.10.2026 09:00–17:30 · S ABAP/4 Development Workbench [BEC]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "I.2.18",
-   "lecturer": "Espenschied"
-  },
-  "zf700784@thws-stundenplan.local": {
-   "hash": "3d579fd43c8226d6cc9146907150b879ccefb93f",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 20.10.2026 10:00–13:15 · S Tools für Business Software [BWI]",
-   "calendar": "THWS – Meine Kurse",
-   "room": "I.2.18",
-   "lecturer": "Hennermann"
-  },
   "zf700785@thws-stundenplan.local": {
    "hash": "c1c334102ba3988911ba17f7b720fdac16ec5b2b",
    "sequence": 0,
@@ -226,24 +190,6 @@
    "calendar": "THWS – Extras",
    "room": "H.1.3",
    "lecturer": "Schleif"
-  },
-  "zf707263@thws-stundenplan.local": {
-   "hash": "ec84bea42b15cce6def3583514711a6117a5932b",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 20.10.2026 10:00–11:30 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Extras",
-   "room": "H.1.3",
-   "lecturer": "Wedlich"
-  },
-  "zf716998@thws-stundenplan.local": {
-   "hash": "1bf2299d379f7e608f4278afc93ea970deb9c561",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Di 20.10.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
-   "calendar": "THWS – Extras",
-   "room": "H.1.3",
-   "lecturer": "Heß"
   },
   "zf707264@thws-stundenplan.local": {
    "hash": "b0ea4d5ad37d490f460e90ef08f032181ddae9af",
