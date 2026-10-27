@@ -1,5 +1,5 @@
 {
- "last_change": "26.10.2026, 10:42",
+ "last_change": "27.10.2026, 16:43",
  "total_parsed": 317,
  "events": {
   "zf700785@thws-stundenplan.local": {
@@ -201,9 +201,9 @@
    "lecturer": "Wedlich"
   },
   "zf716999@thws-stundenplan.local": {
-   "hash": "def5a5ab120fb49a43b8ae2aaf5e7f6b5c2c0279",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
+   "hash": "3705a4783c7d7ed35e58fb707e9324a6c9d7ead7",
+   "sequence": 1,
+   "dtstamp": "20261027T154337Z",
    "label": "Di 27.10.2026 11:45–13:15 · SU IT-Projektmanagement [BWI]",
    "calendar": "THWS – Extras",
    "room": "H.1.3",
