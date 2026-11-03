@@ -1,5 +1,5 @@
 {
- "last_change": "02.11.2026, 02:15",
+ "last_change": "03.11.2026, 12:37",
  "total_parsed": 291,
  "events": {
   "zf700786@thws-stundenplan.local": {
@@ -48,19 +48,19 @@
    "lecturer": "Hennermann"
   },
   "zf715527@thws-stundenplan.local": {
-   "hash": "4a54aa50ce61554cff4da850449814f6b772cbeb",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Do 10.12.2026 09:00–17:30 · S Einführung in die SAP Business Technology Platform [BEC]",
+   "hash": "7d6c10081573bad40faf73975c1407421b26ef59",
+   "sequence": 1,
+   "dtstamp": "20261103T113724Z",
+   "label": "Do 10.12.2026 09:00–17:30 · S Einführung in die SAP Business Technology Platform [BDGD]",
    "calendar": "THWS – Meine Kurse",
    "room": "I.2.1",
    "lecturer": "Fink"
   },
   "zf715526@thws-stundenplan.local": {
-   "hash": "f332e91ed52e0fbe17641d552e5737651ef1a91b",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Fr 11.12.2026 09:00–17:30 · S Einführung in die SAP Business Technology Platform [BEC]",
+   "hash": "641c65a55f2c29e56eb9882f802a22c70df328e6",
+   "sequence": 1,
+   "dtstamp": "20261103T113724Z",
+   "label": "Fr 11.12.2026 09:00–17:30 · S Einführung in die SAP Business Technology Platform [BDGD]",
    "calendar": "THWS – Meine Kurse",
    "room": "I.2.1",
    "lecturer": "Fink"
@@ -75,10 +75,10 @@
    "lecturer": "Hennermann"
   },
   "zf715523@thws-stundenplan.local": {
-   "hash": "2d6990ac6758aa7244fffaf404b23fd8fe71f7c6",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Mi 09.12.2026 13:30–17:30 · S Einführung in die SAP Business Technology Platform [BEC]",
+   "hash": "20c8466dbc91736922cece10a75a9ff9d430f32a",
+   "sequence": 1,
+   "dtstamp": "20261103T113724Z",
+   "label": "Mi 09.12.2026 13:30–17:30 · S Einführung in die SAP Business Technology Platform [BDGD]",
    "calendar": "THWS – Meine Kurse",
    "room": "I.2.1",
    "lecturer": "Fink"
@@ -111,19 +111,19 @@
    "lecturer": "Hennermann"
   },
   "zf715528@thws-stundenplan.local": {
-   "hash": "8fd1216de0d4fbec59a45d5c4233471fcf131ca9",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Do 21.01.2027 09:00–17:30 · S Einführung in die SAP Business Technology Platform [BEC]",
+   "hash": "677d25143edf2bd0008a0e60c3e7be75f3895b6e",
+   "sequence": 1,
+   "dtstamp": "20261103T113724Z",
+   "label": "Do 21.01.2027 09:00–17:30 · S Einführung in die SAP Business Technology Platform [BDGD]",
    "calendar": "THWS – Meine Kurse",
    "room": "I.2.1",
    "lecturer": "Fink"
   },
   "zf715525@thws-stundenplan.local": {
-   "hash": "00ec4fa104619954b9374ba3e6d299a452fe8ef5",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Fr 22.01.2027 09:00–17:30 · S Einführung in die SAP Business Technology Platform [BEC]",
+   "hash": "ceb638b5c312771362f1cea59a8b12fd8b2e6227",
+   "sequence": 1,
+   "dtstamp": "20261103T113724Z",
+   "label": "Fr 22.01.2027 09:00–17:30 · S Einführung in die SAP Business Technology Platform [BDGD]",
    "calendar": "THWS – Meine Kurse",
    "room": "I.2.1",
    "lecturer": "Fink"
@@ -138,10 +138,10 @@
    "lecturer": "Hennermann"
   },
   "zf715524@thws-stundenplan.local": {
-   "hash": "746d7c34462a60e31bbe6cb22a6523818924c152",
-   "sequence": 0,
-   "dtstamp": "20260915T194545Z",
-   "label": "Mi 20.01.2027 13:30–17:30 · S Einführung in die SAP Business Technology Platform [BEC]",
+   "hash": "d3ca8593a9f80b0495a36738c141aa53dcc2d437",
+   "sequence": 1,
+   "dtstamp": "20261103T113724Z",
+   "label": "Mi 20.01.2027 13:30–17:30 · S Einführung in die SAP Business Technology Platform [BDGD]",
    "calendar": "THWS – Meine Kurse",
    "room": "I.2.1",
    "lecturer": "Fink"

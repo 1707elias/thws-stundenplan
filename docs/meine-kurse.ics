@@ -122,49 +122,49 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zf715523@thws-stundenplan.local
-DTSTAMP:20260915T194545Z
-SEQUENCE:0
+DTSTAMP:20261103T113724Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Berlin:20261209T133000
 DTEND;TZID=Europe/Berlin:20261209T173000
-SUMMARY:S Einführung in die SAP Business Technology Platform [BEC]
+SUMMARY:S Einführung in die SAP Business Technology Platform [BDGD]
 DESCRIPTION:Dozent: Fink\nQuelle: BWI 7 Business Software
 TRANSP:OPAQUE
 LOCATION:I.2.1
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:S Einführung in die SAP Business Technology Platform [BEC]
+DESCRIPTION:S Einführung in die SAP Business Technology Platform [BDGD]
 TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zf715527@thws-stundenplan.local
-DTSTAMP:20260915T194545Z
-SEQUENCE:0
+DTSTAMP:20261103T113724Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Berlin:20261210T090000
 DTEND;TZID=Europe/Berlin:20261210T173000
-SUMMARY:S Einführung in die SAP Business Technology Platform [BEC]
+SUMMARY:S Einführung in die SAP Business Technology Platform [BDGD]
 DESCRIPTION:Dozent: Fink\nQuelle: BWI 7 Business Software
 TRANSP:OPAQUE
 LOCATION:I.2.1
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:S Einführung in die SAP Business Technology Platform [BEC]
+DESCRIPTION:S Einführung in die SAP Business Technology Platform [BDGD]
 TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zf715526@thws-stundenplan.local
-DTSTAMP:20260915T194545Z
-SEQUENCE:0
+DTSTAMP:20261103T113724Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Berlin:20261211T090000
 DTEND;TZID=Europe/Berlin:20261211T173000
-SUMMARY:S Einführung in die SAP Business Technology Platform [BEC]
+SUMMARY:S Einführung in die SAP Business Technology Platform [BDGD]
 DESCRIPTION:Dozent: Fink\nQuelle: BWI 7 Business Software
 TRANSP:OPAQUE
 LOCATION:I.2.1
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:S Einführung in die SAP Business Technology Platform [BEC]
+DESCRIPTION:S Einführung in die SAP Business Technology Platform [BDGD]
 TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
@@ -234,49 +234,49 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zf715524@thws-stundenplan.local
-DTSTAMP:20260915T194545Z
-SEQUENCE:0
+DTSTAMP:20261103T113724Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Berlin:20270120T133000
 DTEND;TZID=Europe/Berlin:20270120T173000
-SUMMARY:S Einführung in die SAP Business Technology Platform [BEC]
+SUMMARY:S Einführung in die SAP Business Technology Platform [BDGD]
 DESCRIPTION:Dozent: Fink\nQuelle: BWI 7 Business Software
 TRANSP:OPAQUE
 LOCATION:I.2.1
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:S Einführung in die SAP Business Technology Platform [BEC]
+DESCRIPTION:S Einführung in die SAP Business Technology Platform [BDGD]
 TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zf715528@thws-stundenplan.local
-DTSTAMP:20260915T194545Z
-SEQUENCE:0
+DTSTAMP:20261103T113724Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Berlin:20270121T090000
 DTEND;TZID=Europe/Berlin:20270121T173000
-SUMMARY:S Einführung in die SAP Business Technology Platform [BEC]
+SUMMARY:S Einführung in die SAP Business Technology Platform [BDGD]
 DESCRIPTION:Dozent: Fink\nQuelle: BWI 7 Business Software
 TRANSP:OPAQUE
 LOCATION:I.2.1
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:S Einführung in die SAP Business Technology Platform [BEC]
+DESCRIPTION:S Einführung in die SAP Business Technology Platform [BDGD]
 TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zf715525@thws-stundenplan.local
-DTSTAMP:20260915T194545Z
-SEQUENCE:0
+DTSTAMP:20261103T113724Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Berlin:20270122T090000
 DTEND;TZID=Europe/Berlin:20270122T173000
-SUMMARY:S Einführung in die SAP Business Technology Platform [BEC]
+SUMMARY:S Einführung in die SAP Business Technology Platform [BDGD]
 DESCRIPTION:Dozent: Fink\nQuelle: BWI 7 Business Software
 TRANSP:OPAQUE
 LOCATION:I.2.1
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:S Einführung in die SAP Business Technology Platform [BEC]
+DESCRIPTION:S Einführung in die SAP Business Technology Platform [BDGD]
 TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
